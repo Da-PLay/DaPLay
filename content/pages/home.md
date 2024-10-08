@@ -23,7 +23,7 @@ sections:
       very first play. Each puzzle is carefully crafted to enhance your
       cognitive skills while providing endless hours of entertainment. With
       vibrant graphics and engaging gameplay, Brain Blast is just the beginning
-      of your adventure with us.More Adventures AwaitBut we’re just getting
+      of your adventure with us.More Adventures Await But we’re just getting
       started! At Da Play, we believe that the future of gaming lies in
       exploration and discovery. Our team is hard at work on a diverse lineup of
       mobile games that promise to transport you to new worlds filled with
