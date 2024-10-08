@@ -8,5 +8,10 @@
   to = "https://daplay.eu/app-ads.txt"
   status = 301
 
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200 
+
 [[plugins]]
   package = "@netlify/plugin-nextjs"
