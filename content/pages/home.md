@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">At Da Play, we’re on a mission to
+      <div style="text-align: left">At Da Play, we’re on a mission to
       revolutionize mobile gaming by creating captivating, immersive experiences
       that not only entertain but also empower players. With a passion for
       innovation and creativity, we develop games that challenge the mind and
