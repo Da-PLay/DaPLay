@@ -1,5 +1,5 @@
 ---
-title: Brain Blas
+title: Brain Blast
 slug: brain-blast
 sections:
   - title:
