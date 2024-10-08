@@ -82,16 +82,7 @@ sections:
       The game is just beginning, and the possibilities are endless. Welcome to
       the future of mobile gaming—welcome to Da Play!
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
