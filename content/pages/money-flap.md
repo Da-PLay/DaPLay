@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: coming soon
     text: |
-      coming soon
+      twi twi twi
     actions:
       - label: See open positions
         url: /
