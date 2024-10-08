@@ -1,11 +1,11 @@
 [build]
   command = "npm run build"
   publish = ".next"
-  functions = ".netlify/functions"
+  functions = "netlify/functions"
 
 [[redirects]]
   from = "/app-ads.txt"
-  to = "https://your-domain.com/ads"
+  to = "https://daplay.eu/app-ads.txt"
   status = 301
 
 [[plugins]]
