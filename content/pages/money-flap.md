@@ -1,5 +1,5 @@
 ---
-title: Money Flap
+title: Money Fla
 slug: money-flap
 sections:
   - title:
