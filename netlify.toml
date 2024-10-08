@@ -3,5 +3,10 @@
   publish = ".next"
   functions = ".netlify/functions"
 
+[[redirects]]
+  from = "/app-ads.txt"
+  to = "https://your-domain.com/ads"
+  status = 301
+
 [[plugins]]
-package = "@netlify/plugin-nextjs"
+  package = "@netlify/plugin-nextjs"
