@@ -1,7 +1,6 @@
-[build] 
-  command = "npm run build && mkdir -p ./public && cp './app-ads.txt' './public/app-ads.txt'"
-  publish = ".next"
-  functions = ".netlify/functions"
+[build]
+  publish = "dist"
+  command = "yarn generate && cp './app-ads.txt' './dist/app-ads.txt'"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
