@@ -1,17 +1,87 @@
 ---
 title: Home
-slug: /
+slug: /home
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: DaPLay
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: ''
+    text: >+
+
+      At Da Play, we’re on a mission to revolutionize mobile gaming by creating
+      captivating, immersive experiences that not only entertain but also
+      empower players. With a passion for innovation and creativity, we develop
+      games that challenge the mind and ignite the spirit of adventure.
+
+      Introducing Our First Game: Brain Blast
+
+
+
+      Dive into Brain Blast, our inaugural release, where players are invited to
+      embark on an exhilarating journey filled with mind-bending puzzles and
+      thrilling challenges. Designed to test your intellect and quick thinking,
+      Brain Blast takes you through a series of stimulating levels that will
+      have you hooked from the very first play. Each puzzle is carefully crafted
+      to enhance your cognitive skills while providing endless hours of
+      entertainment. With vibrant graphics and engaging gameplay, Brain Blast is
+      just the beginning of your adventure with us.
+
+
+
+      More Adventures Await
+
+
+
+      But we’re just getting started! At Da Play, we believe that the future of
+      gaming lies in exploration and discovery. Our team is hard at work on a
+      diverse lineup of mobile games that promise to transport you to new worlds
+      filled with excitement and challenge. From strategic simulations to
+      action-packed adventures, our upcoming titles will not only offer
+      entertainment but also innovative play-to-earn mechanics, allowing you to
+      earn rewards as you play.
+
+
+
+      Imagine a world where your gaming skills can translate into real rewards! 
+
+
+      Our upcoming games will integrate engaging gameplay with exciting earning
+      potential, giving you more reasons to play and more opportunities to win.
+
+      Join Our Community
+
+
+
+      At Da Play, we value our community of gamers and invite you to be part of
+      our journey. Follow us on social media, subscribe to our newsletter, and
+      stay updated on the latest game releases and exclusive offers. We want to
+      hear from you! Your feedback and ideas will help shape the future of our
+      games and enhance the experiences we create.
+
+
+
+      The Adventure Never Ends
+
+
+
+      As we grow and expand our game library, our commitment to quality and
+      innovation remains our top priority. Each new title will push the
+      boundaries of mobile gaming, offering unique mechanics and unforgettable
+      stories.
+
+
+      So gear up, gather your friends, and get ready for the adventure of a
+      lifetime with Da Play. 
+
+
+      Together, we will explore, create, and conquer! 
+
+
+      The game is just beginning, and the possibilities are endless. Welcome to
+      the future of mobile gaming—welcome to Da Play!
+
     actions:
       - label: Get started
         altText: ''
@@ -32,12 +102,11 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -435,7 +504,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +534,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +594,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +624,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +719,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
