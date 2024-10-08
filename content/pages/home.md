@@ -7,7 +7,7 @@ sections:
       text: DaPLay
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
 
       At Da Play, we’re on a mission to revolutionize mobile gaming by creating
